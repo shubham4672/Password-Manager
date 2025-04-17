@@ -27,7 +27,7 @@ A console-based password manager built using Java and AES encryption. It allows 
 1. **Clone the repository:**
    ```bash
    git clone
-   cd PasswordManager
+   cd PasswordManager https://github.com/shubham4672/Password-Manager.git
    ```
 2. **Compile the Java files:**
    javac PasswordManager.java
